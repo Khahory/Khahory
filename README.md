@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khahory
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on google
 
 <!---
