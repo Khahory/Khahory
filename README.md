@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khahory
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on google
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AWS
 
 <!---
 Khahory/Khahory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
