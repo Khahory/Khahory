@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khahory
 - 👀 I’m interested in anime
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning LLM MCP
 - 💞️ I’m looking to collaborate on AWS
 
 <!---
